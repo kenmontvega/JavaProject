@@ -1,0 +1,1 @@
+ALTER TABLE `group` ADD COLUMN `description_2` VARCHAR(255);

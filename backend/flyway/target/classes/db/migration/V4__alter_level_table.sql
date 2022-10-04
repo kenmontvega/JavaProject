@@ -1,0 +1,1 @@
+ALTER TABLE `level` CHANGE COLUMN `level_id` `level_id` VARCHAR(50) NOT NULL;
